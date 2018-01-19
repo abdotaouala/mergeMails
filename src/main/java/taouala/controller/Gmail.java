@@ -51,7 +51,7 @@ public class Gmail implements SendMailController {
 	  {
 	  public PasswordAuthentication getPasswordAuthentication()
 	  {
-	  return new PasswordAuthentication("abdotaouala@gmail.com", "tpw123tpwtpw");
+	  return new PasswordAuthentication("abdotaouala@gmail.com", "*********************");
 	  }
 	  }
 }
